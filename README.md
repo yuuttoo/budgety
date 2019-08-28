@@ -1,5 +1,5 @@
 # budgety
-Javascript 以MVC流程 寫成的收支記錄App
+使用Javascript 以MVC工作流程寫成的收支記錄App
 
 可分別計算收入與支出
 
